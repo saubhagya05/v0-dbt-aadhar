@@ -48,7 +48,7 @@ export default function Page() {
           </div>
           <div aria-hidden className="rounded-2xl border bg-card p-6">
             <img
-              src={"/placeholder.svg?height=360&width=640&query=smartphone%20mock%20with%20check%20status%20UI"}
+              src= "./aadhaar-1.svg"
               alt="Illustration of smartphone showing DBT status check"
               className="w-full rounded-xl"
             />
